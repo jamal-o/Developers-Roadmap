@@ -1,0 +1,5 @@
+{
+    "dart.hotReloadOnSave": "manual",
+    "dart.hotReloadProgress": "statusBar",
+    "dart.previewHotReloadOnSaveWatcher": true
+}
